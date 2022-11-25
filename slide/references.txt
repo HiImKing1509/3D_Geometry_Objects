@@ -1,0 +1,19 @@
+Point and line (concepts): https://www.cuemath.com/geometry/points-and-lines/
+
+vector (concepts): https://byjus.com/maths/vectors/
+
+plane (concepts): https://study.com/academy/lesson/what-is-a-plane-in-geometry-definition-examples.html
+
+Linear-transformation: https://medium.com/analytics-vidhya/advance-nonlinear-variable-transformations-ecedf3f8709e
+
+Translation: https://www.gatevidyalay.com/3d-translation-in-computer-graphics-definition-examples/
+
+Rotation: https://www.gatevidyalay.com/3d-rotation-in-computer-graphics-definition-examples/
+
+Scaling: https://www.gatevidyalay.com/3d-scaling-in-computer-graphics-definition-examples/
+
+Reflection: https://www.gatevidyalay.com/3d-reflection-in-computer-graphics-definition-examples/
+
+Shear: https://www.gatevidyalay.com/3d-shearing-in-computer-graphics-definition-examples/
+
+Application: https://www.toppr.com/ask/content/posts/three-dimensional-geometry/real-life-applications-28247/

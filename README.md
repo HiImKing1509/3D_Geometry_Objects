@@ -17,3 +17,7 @@
 * JupyterNotebook in `VScode`
 * `conda install -c conda-forge igl`
 * `conda install -c conda-forge meshplot`
+
+## RESOURCES
+* <a href="">Slide presentation</a>
+* <a href="">Homework (is updating ...)</a>

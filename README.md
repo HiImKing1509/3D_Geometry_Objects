@@ -11,7 +11,7 @@
 | Serial    | student ID          | Full name              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20521494      | Huỳnh Viết Tuấn Kiệt |[hiimking1509](https://github.com/HiImKing1509)          |20521494@gm.uit.edu.vn   |
-| 1      | 20520276      | Nguyễn Đức Anh Phúc |[PhucNDA](https://github.com/PhucNDA)          |20520276@gm.uit.edu.vn   |
+| 2      | 20520276      | Nguyễn Đức Anh Phúc |[PhucNDA](https://github.com/PhucNDA)          |20520276@gm.uit.edu.vn   |
 
 ## SET UP REQUIREMENTS
 * JupyterNotebook in `VScode`
@@ -20,6 +20,6 @@
 
 ## RESOURCES
 * <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/blob/main/slide/Slide%20Presentation.pdf">Slide presentation</a>
-* <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/tree/main/homework">Homework</a>
+* <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/tree/main/homework">Homework</a> (Deadline 00:00 09/12/2022)
   * <a href="https://forms.gle/p8VKMLH9nzworYxB9">Submit form</a>
 * <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/tree/main/report">Socrative report</a>

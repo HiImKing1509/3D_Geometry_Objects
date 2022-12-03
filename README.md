@@ -22,3 +22,4 @@
 * <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/blob/main/slide/Slide%20Presentation.pdf">Slide presentation</a>
 * <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/tree/main/homework">Homework</a>
   * <a href="https://forms.gle/p8VKMLH9nzworYxB9">Submit form</a>
+* <a href="https://github.com/HiImKing1509/CS532.N11_3D_Geometry_Objects/tree/main/report">Socrative report</a>

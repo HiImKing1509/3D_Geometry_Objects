@@ -11,7 +11,7 @@
 | Serial    | student ID          | Full name              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 20521494      | Huỳnh Viết Tuấn Kiệt |[hiimking1509](https://github.com/HiImKing1509)          |20521494@gm.uit.edu.vn   |
-| 1      | 20520276      | Nguyễn Đức Anh Phúc |[PhucNDA](https://github.com/PhucNDA)          |20520276@gm.uit.edu.vn   |
+| 2      | 20520276      | Nguyễn Đức Anh Phúc |[PhucNDA](https://github.com/PhucNDA)          |20520276@gm.uit.edu.vn   |
 
 ## SET UP REQUIREMENTS
 * JupyterNotebook in `VScode`
